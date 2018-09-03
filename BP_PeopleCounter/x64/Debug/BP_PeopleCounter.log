@@ -1,7 +1,5 @@
-﻿  Blob.cpp
-  MyForm.cpp
-c:\users\bartek\source\repos\bp_peoplecounter\bp_peoplecounter\MyForm.h(397): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Generating Code...
+﻿  MyForm.cpp
+c:\users\bartek\documents\visual studio 2015\projects\bp_peoplecounter\bp_peoplecounter\MyForm.h(397): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 c:\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': function compiled as native:
   	Found an intrinsic not supported in managed code
 c:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
@@ -22,19 +20,7 @@ c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail
   	Found an intrinsic not supported in managed code
 c:\opencv\build\include\opencv2\core\cvstd.hpp(657): warning C4793: 'cv::String::operator=': function compiled as native:
   	Found an intrinsic not supported in managed code
-c:\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': function compiled as native:
-  	Found an intrinsic not supported in managed code
-c:\opencv\build\include\opencv2\core\mat.inl.hpp(482): warning C4793: 'cv::Mat::Mat': function compiled as native:
-  	Found an intrinsic not supported in managed code
-c:\opencv\build\include\opencv2\core\mat.inl.hpp(2118): warning C4793: 'cv::SparseMat::addref': function compiled as native:
-  	Found an intrinsic not supported in managed code
-c:\opencv\build\include\opencv2\core\mat.inl.hpp(3718): warning C4793: 'cv::UMat::addref': function compiled as native:
-  	Found an intrinsic not supported in managed code
-c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
-  	Found an intrinsic not supported in managed code
-c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
-  	Found an intrinsic not supported in managed code
   Blob.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
 MyForm.obj : warning LNK4248: unresolved typeref token (0100002B) for 'CvCapture'; image may not run
-  BP_PeopleCounter.vcxproj -> C:\Users\Bartek\source\repos\BP_PeopleCounter\x64\Debug\BP_PeopleCounter.exe
-  BP_PeopleCounter.vcxproj -> C:\Users\Bartek\source\repos\BP_PeopleCounter\x64\Debug\BP_PeopleCounter.pdb (Partial PDB)
+  BP_PeopleCounter.vcxproj -> C:\Users\Bartek\Documents\Visual Studio 2015\Projects\BP_PeopleCounter\x64\Debug\BP_PeopleCounter.exe
+  BP_PeopleCounter.vcxproj -> C:\Users\Bartek\Documents\Visual Studio 2015\Projects\BP_PeopleCounter\x64\Debug\BP_PeopleCounter.pdb (Partial PDB)
